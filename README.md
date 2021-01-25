@@ -24,8 +24,9 @@ Here are some ideas to get you started:
 <img src="https://media.giphy.com/media/2Yj2vRSHrhZIUyVPGl/giphy.gif" width="20"> I am a student of Computer and Science at Sharda University. I love doing Web development and exploring new technologies.<br/>
 <img src="https://media.giphy.com/media/t4HSXSp23O7ua3JhAA/giphy.gif" width="20"> I love enjoying my company and exploring the world. 
 
-<img src="https://github-readme-stats.vercel.app/api?username=ritik1501&show_icons=true&theme=algolia"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritik1501&layout=compact&langs_count=10&show_icons=true&theme=algolia"/>
+<table style="border:0px"><tr>
+  <td valign="center" width="50%"><div align="center"><img src="https://github-readme-stats.vercel.app/api?username=ritik1501&show_icons=true&theme=algolia"/></div></td>
+  <td valign="center" width="50%"><div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritik1501&layout=compact&langs_count=10&show_icons=true&theme=algolia"/></div></td></tr></table>
 <div align="center"><img src="https://github-profile-trophy.vercel.app/?username=ritik1501" align="center"/></div>
 
 ## Connect with Me!
