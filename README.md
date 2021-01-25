@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### About Me!  
-<img src="https://media.giphy.com/media/SYQFjIKXTL6f2HoJIh/giphy.gif" width="30"> I am a student of Computer and Science at Sharda University. I am in 3rd year.<br/>
-<img src="https://media.giphy.com/media/llCMePepHIqmv1ZYoN/giphy.gif" width="30"> I love enjoying my company and exploring this world. 
+<img src="https://media.giphy.com/media/2Yj2vRSHrhZIUyVPGl/giphy.gif" width="20"> I am a student of Computer and Science at Sharda University. I am in 3rd year.<br/>
+<img src="https://media.giphy.com/media/t4HSXSp23O7ua3JhAA/giphy.gif" width="20"> I love enjoying my company and exploring the world. 
 
 [![Ritik's github stats](https://github-readme-stats.vercel.app/api?username=ritik1501&show_icons=true&theme=algolia)](https://github.com/ritik1501/github-readme-stats)
 [![Top Languagess](https://github-readme-stats.vercel.app/api/top-langs/?username=ritik1501&layout=compact&langs_count=10&show_icons=true&theme=algolia)](https://github.com/ritik1501/github-readme-stats)
