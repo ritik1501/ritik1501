@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 <img src="https://media.giphy.com/media/t4HSXSp23O7ua3JhAA/giphy.gif" width="20"> I love enjoying my company and exploring the world. 
 
 <div><img src="https://github-readme-stats.vercel.app/api?username=ritik1501&show_icons=true&theme=algolia"/></div>
-<div style="margin-left: 5px;"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritik1501&layout=compact&langs_count=10&show_icons=true&theme=algolia"/></div>
+<div><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritik1501&layout=compact&langs_count=10&show_icons=true&theme=algolia"/></div>
 <div align="center"><img src="https://github-profile-trophy.vercel.app/?username=ritik1501" align="center"/></div>
 
 ## Connect with Me!
