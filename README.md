@@ -99,6 +99,10 @@ Here are some ideas to get you started:
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="70" />   
 </div></td></tr></table>
 
+<h3 align="left">GitHub Activity Graph:</h3>
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ritik1501&bg_color=904e99&color=fff&line=4fff67&point=ffffff&area=true&hide_border=true) 
+
 <!-- <h3 align="left">My Stats:</h3>
 
 <p>&emsp;<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ritik1501&langs_count=10&show_icons=true&locale=en&layout=compact&bg_color=50,e96205,904e99&title_color=fff&text_color=fff&icon_color=f2f2f2" alt="ritik1501" /> &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<img alt="tech" width="250" height="150" src="https://media.giphy.com/media/4H3Ii5eLChYul9p7NL/giphy.gif"></p>
