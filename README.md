@@ -27,9 +27,15 @@ Here are some ideas to get you started:
 ![](https://visitor-badge.laobi.icu/badge?page_id=ritik1501.ritik1501)
 [![Github](https://img.shields.io/github/followers/ritik1501?label=Follow&style=social)](https://github.com/ritik1501)
 
-<table style="border:0px"><tr>
+<table border="0"><tr>
   <td valign="center" width="50%"><div align="center"><img src="https://github-readme-stats.vercel.app/api?username=ritik1501&show_icons=true&theme=algolia"/></div></td>
-  <td valign="center" width="50%"><div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritik1501&layout=compact&langs_count=10&show_icons=true&theme=algolia"/></div></td></tr></table>
+  
+  <td valign="center" width="50%"><div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritik1501&layout=compact&langs_count=10&show_icons=true&theme=algolia"/></div></td></tr>
+  <tr>
+  <td valign="center" width="50%"><div align="center"><img src="https://media.giphy.com/media/skU5qA0NB7Y0o/giphy.gif"/></div></td>
+  
+  <td valign="center" width="50%"><div align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=ritik1501&theme=flag-india"/></div></td></tr>
+ </table>
 <div align="center"><img src="https://github-profile-trophy.vercel.app/?username=ritik1501" align="center"/></div>
 <hr>
 
@@ -92,3 +98,19 @@ Here are some ideas to get you started:
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/opencv-icon.svg" alt="OpenCV" height="70" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="70" />   
 </div></td></tr></table>
+
+<!-- <h3 align="left">My Stats:</h3>
+
+<p>&emsp;<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ritik1501&langs_count=10&show_icons=true&locale=en&layout=compact&bg_color=50,e96205,904e99&title_color=fff&text_color=fff&icon_color=f2f2f2" alt="ritik1501" /> &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<img alt="tech" width="250" height="150" src="https://media.giphy.com/media/4H3Ii5eLChYul9p7NL/giphy.gif"></p>
+
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=ritik1501&show_icons=true&count_private=true&hide_border=true&bg_color=50,e96205,904e99&title_color=fff&text_color=fff&icon_color=f2f2f2" alt="ritik1501" /><img align="left" alt="coding" width="250" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif"></p>
+ 
+<p>&nbsp;<img align="left" src="https://github-readme-streak-stats.herokuapp.com?user=ritik1501&theme=flag-india" alt="ritik1501"/><img align="center" alt="curious" width="250" src="https://media.giphy.com/media/skU5qA0NB7Y0o/giphy.gif"></p>
+<hr>
+
+<h3 align="left">GitHub Activity Graph:</h3>
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ritik1501&bg_color=904e99&color=fff&line=4fff67&point=ffffff&area=true&hide_border=true) 
+
+<hr> -->
+
